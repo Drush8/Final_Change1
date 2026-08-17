@@ -49,7 +49,7 @@ const founder = {
 const facilitators = [
   {
     name: "Rama Mohan KV (Ram)",
-    role: "Director — Strategic Transformation, Operational Excellence & Applied AI",
+    role: "Director — Strategic Transformation, Operational Excellence & Applied AI | Vice President at Infosys and EdgeVerve",
     experience: "33+ Years",
     description:
       "Three decades of experience across manufacturing, IT, services, start-ups and consulting, with deep expertise in transformation, operational excellence and applied AI.",
